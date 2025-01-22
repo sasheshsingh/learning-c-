@@ -1,0 +1,1 @@
+ Got to know about the different data types in the data structure.

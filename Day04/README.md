@@ -1,0 +1,1 @@
+Irrespective of the data type of the pointer. Pointer takes same memory space. for 32 bit, 4 bytes and 64 bit, 8 bytes.
